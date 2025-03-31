@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>สถานการณ์น้ำในอ่างเก็บน้ำเขื่อนศรีนครินทร์ และ เขื่อนวชิราลงกรณ</title>
+</head>
+<META HTTP-EQUIV='Content-Type' CONTENT='text/html; charset=utf-8'>
+
+<body bgcolor="#FFFFFF">
+
+<table cellspacing="1" cellpadding="1" height="100%" width="100%">
+<tbody>
+<tr height="5%" align="center">
+	<td>
+		<form action="index.php" method="post" name="in_form1">
+			<input type="text" name="r_date" value="30/03/2025">
+			<input type="submit" id="mybtn" value="ตกลง">
+		</form>
+	</td>
+</tr>
+<tr height="95%" align="center">
+	<td colspan="3" bgcolor="#ffffff" valign="top">
+
+			<img src="infographic.php?r_date=30/03/2025" height="100%" frameborder="0"align="middle">
+
+	</td>
+</tr>
+
+</tbody></table> 
+
+<table>
+	<tr>
+		<td></td>
+		<td></td>
+		<td></td>
+	<tr>
+	<tr>
+		<td></td>
+		<td><B>ผู้รับผิดชอบข้อมูล</B> :นายสฤษฎิ์ชัย ผ่องใสโสภณ ผู้อำนวยการเขื่อนศรีนครินทร์ โทร 034-574-001 ต่อ 2000</td>
+		<td></td>
+	</tr>
+
+	<tr>
+		<td></td>
+		<td><B>ผู้ดูแลเว็บไซต์</B> :นายเศรษฐชัย ด่านสมบูรณ์ โทร 034-574-001 ต่อ 2110 </td>
+		<td></td>
+	</tr>
+</table>
+
+</body>
+</html>
